@@ -1,4 +1,11 @@
 # REISE Shield Direct
+[![Gesamt-Downloads](https://img.shields.io/github/downloads/hedfi-y/REISE-Shield-Direct/total?style=for-the-badge&label=Gesamt-Downloads)](https://github.com/hedfi-y/REISE-Shield-Direct/releases/latest)
+
+![Universal](https://img.shields.io/github/downloads/hedfi-y/REISE-Shield-Direct/direct-beta-1/REISE-Shield-Direct-universal.apk?style=flat-square&label=Universal)
+![ARM64](https://img.shields.io/github/downloads/hedfi-y/REISE-Shield-Direct/direct-beta-1/REISE-Shield-Direct-arm64-v8a.apk?style=flat-square&label=ARM64)
+![ARM32](https://img.shields.io/github/downloads/hedfi-y/REISE-Shield-Direct/direct-beta-1/REISE-Shield-Direct-armeabi-v7a.apk?style=flat-square&label=ARM32)
+![x86_64](https://img.shields.io/github/downloads/hedfi-y/REISE-Shield-Direct/direct-beta-1/REISE-Shield-Direct-x86_64.apk?style=flat-square&label=x86_64)
+
 
 [Deutsch](#deutsch) | [English](#english)
 
