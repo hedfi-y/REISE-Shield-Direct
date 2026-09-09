@@ -1,43 +1,92 @@
 # REISE Shield Direct
 
-**Sicher verbunden. Zuhause und unterwegs.**
+[Deutsch](#deutsch) | [English](#english)
+
+Dieses öffentliche Repository enthält ausschließlich die signierten Installationspakete. Der Quellcode wird nicht veröffentlicht.
+
+This public repository contains signed installation packages only. Source code is not published.
+
+---
+
+## Deutsch
+
+### Sicher verbunden. Zuhause und unterwegs.
 
 REISE Shield Direct vereint DNS-Schutz, VPN-Verwaltung, Smart-Home-Zugriff, Dateifreigabe und praktische Verbindungsfunktionen in einer einzigen Android-App.
 
-## Highlights
+### Highlights
 
-- Lokaler DNS-Schutz gegen Werbung und unerwuenschte Verbindungen
-- WireGuard- und IKEv2-Unterstuetzung
+- Lokaler DNS-Schutz gegen Werbung und unerwünschte Verbindungen
+- Unterstützung für WireGuard und IKEv2
 - Mehrere VPN-Profile zentral verwalten und flexibel wechseln
-- Smart-Home-Zugriff mit gezielter Heimnetz-Verbindung
+- Gezielter Smart-Home- und Heimnetz-Zugriff
 - App-Ausnahmen und individuelle Verbindungsregeln
-- Dateifreigabe ueber SMB 2/3 und WebDAV
-- Direkter Zugriff auf freigegebene Ordner sowie Medienwiedergabe
-- SMS-Funktionen und lokale Geraeteverbindungen
-- QR-Code-gestuetzte Einrichtung
-- Deutsche und englische Benutzeroberflaeche nach Systemsprache
+- Dateifreigabe über SMB 2/3 und WebDAV
+- Direkter Medienzugriff und Streaming
+- SMS-Funktionen und lokale Geräteverbindungen
+- Einfache Einrichtung über QR-Codes
+- Deutsche und englische Oberfläche nach Systemsprache
 
-## Kostenlos und freiwillig unterstuetzt
+### Kostenlos und freiwillig unterstützt
 
-Alle Funktionen von REISE Shield Direct bleiben dauerhaft kostenlos. Innerhalb der App kann die weitere Entwicklung freiwillig mit 5 EUR, 10 EUR oder 15 EUR unterstuetzt werden. Eine Unterstuetzung schaltet keine Zusatzfunktionen frei.
+Alle Funktionen bleiben dauerhaft kostenlos. Innerhalb der App kann die weitere Entwicklung freiwillig mit 5 €, 10 € oder 15 € unterstützt werden. Eine Unterstützung schaltet keine zusätzlichen Funktionen frei.
 
-## Download
+### Welche APK soll ich herunterladen?
 
-Fuer die einfachste Installation wird die **Universal-APK** empfohlen. Sie funktioniert auf den meisten Android-Geraeten. Wer die Prozessorarchitektur seines Geraets kennt, kann alternativ eine kleinere Variante herunterladen:
+- **Universal**: empfohlen, wenn du unsicher bist; funktioniert auf den meisten Geräten
+- **arm64-v8a**: moderne Android-Smartphones und Tablets
+- **armeabi-v7a**: ältere 32-Bit-Android-Geräte
+- **x86_64**: Android-Emulatoren und seltene x86-Geräte
 
-- `arm64-v8a`: moderne Android-Smartphones und Tablets
-- `armeabi-v7a`: aeltere 32-Bit-Android-Geraete
-- `x86_64`: Android-Emulatoren und seltene x86-Geraete
+Die Dateien findest du unter [Releases](https://github.com/hedfi-y/REISE-Shield-Direct/releases/latest).
 
-Die APKs befinden sich unter **Releases**.
+### Installation
 
-## Installation
+Da diese Ausgabe direkt über GitHub verteilt wird, kann Android einmalig nach der Erlaubnis zur Installation aus dieser Quelle fragen. Lade APKs ausschließlich aus diesem offiziellen Repository herunter.
 
-Da diese Ausgabe direkt ueber GitHub verteilt wird, kann Android einmalig nach der Erlaubnis zur Installation aus dieser Quelle fragen. Lade APKs ausschliesslich aus diesem offiziellen Repository herunter.
+---
 
-## Kontakt
+## English
 
-- Webseite: https://www.reise-engine.com
-- E-Mail: kontakt@reise-engine.com
+### Securely connected. At home and on the go.
 
-Copyright 2026 REISE Engine. Alle Rechte vorbehalten.
+REISE Shield Direct combines DNS protection, VPN management, smart-home access, file sharing, and practical connectivity features in one Android app.
+
+### Highlights
+
+- Local DNS protection against ads and unwanted connections
+- WireGuard and IKEv2 support
+- Manage multiple VPN profiles and switch between them easily
+- Targeted smart-home and home-network access
+- Per-app exceptions and individual connection rules
+- File sharing through SMB 2/3 and WebDAV
+- Direct media access and streaming
+- SMS features and local device connections
+- Simple QR-code setup
+- German and English interface following the system language
+
+### Free with optional support
+
+All features remain permanently free. Users may voluntarily support further development with 5 €, 10 €, or 15 € inside the app. Supporting the project does not unlock additional features.
+
+### Which APK should I download?
+
+- **Universal**: recommended if you are unsure; works on most devices
+- **arm64-v8a**: modern Android smartphones and tablets
+- **armeabi-v7a**: older 32-bit Android devices
+- **x86_64**: Android emulators and uncommon x86 devices
+
+Downloads are available under [Releases](https://github.com/hedfi-y/REISE-Shield-Direct/releases/latest).
+
+### Installation
+
+Because this edition is distributed directly through GitHub, Android may ask once for permission to install apps from this source. Only download APKs from this official repository.
+
+---
+
+## Contact
+
+- Website: https://www.reise-engine.com
+- Email: kontakt@reise-engine.com
+
+Copyright 2026 REISE Engine. All rights reserved.
